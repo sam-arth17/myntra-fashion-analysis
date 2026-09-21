@@ -14,7 +14,6 @@ The analysis involved cleaning and standardizing the dataset, handling missing v
 - Data Cleaning
 - Conditional Analysis
 - Lookup Functions
-- Pivot/analysis techniques
 
 ## Data Preparation
 
